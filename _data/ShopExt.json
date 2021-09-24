@@ -2177,6 +2177,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy fears fire and tries to stay as far away from any source of fire as possible.\n(Avali Continued (1.1))",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "pyromaniac"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Avali Continued [1.1]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "pyromaniac"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "FearsFire",
+      "name": "fearsfire",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2278,6 +2308,84 @@
       "enabled": false,
       "name": "Zombie",
       "price": 1
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+$2500 Market value",
+          "+5.40 Move speed",
+          "+2.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+60 Meat amount",
+          "+100% Immunity gain speed",
+          "+90 Carrying capacity",
+          "+100% Pain shock threshold",
+          "+100% Psychic sensitivity",
+          "+100% Flammability",
+          "+1.0 Melee dodge chance",
+          "+1.0 Melee hit chance",
+          "+90% Aiming time",
+          "+1.0 Shooting accuracy",
+          "+100.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Social impact",
+          "+100% Mechanoid shredding efficiency",
+          "+100% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+100% General labor speed",
+          "+100% Butchery efficiency",
+          "+100% Butchery speed",
+          "+100.00% Food poison chance",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+120% Research speed",
+          "+110% Medical tend quality",
+          "+100% Drug synthesis speed",
+          "+100% Medical surgery success chance",
+          "+100% Mining speed",
+          "+100% Mining yield"
+        ],
+        "mod": "Anthro Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A weird being.\n(Anthro Race)",
+      "defName": "Anthro",
+      "enabled": true,
+      "name": "Anthro",
+      "price": 4167
+    },
+    {
+      "data": {
+        "stats": [
+          "+70.00 Mass",
+          "+$1500 Market value",
+          "+7.62 Move speed",
+          "+100% Flammability",
+          "+100% Psychic sensitivity",
+          "+7.0 Melee dodge chance",
+          "+18% Mental break threshold",
+          "-60.0C Minimum comfortable temperature",
+          "-35.0C Maximum comfortable temperature",
+          "+30 Leather amount",
+          "+90 Meat amount",
+          "+60% Mining speed",
+          "+60% Construction speed",
+          "+60% Animal gather speed",
+          "+100% Animal gather yield"
+        ],
+        "mod": "Avali Continued [1.1]",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A small feathered raptor-like creature with big eyes and four ears.\nKnown for their bad temper and a love of the musical arts and shiny things.\n(Avali Continued (1.1))",
+      "defName": "Avali",
+      "enabled": true,
+      "name": "avali",
+      "price": 2500
     }
   ]
 }
