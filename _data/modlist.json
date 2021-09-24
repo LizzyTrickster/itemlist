@@ -480,12 +480,6 @@
     "version": "1.3.0.1"
   },
   {
-    "author": "Major Hoff",
-    "name": "RimThreaded",
-    "steamId": "2222907981",
-    "version": "2.5.15"
-  },
-  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -532,5 +526,17 @@
     "name": "Puppeteer",
     "steamId": "2594873651",
     "version": "1.6.1.0"
+  },
+  {
+    "author": "R-MK",
+    "name": "Anthro Race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erisss,  FacePlus and  Ksisa",
+    "name": "Avali Continued [1.1]",
+    "steamId": null,
+    "version": null
   }
 ]
